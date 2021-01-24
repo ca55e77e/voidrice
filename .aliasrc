@@ -1,0 +1,6 @@
+
+alias ll="ls -l"
+alias la="ls -la"
+alias xi="sudo xbps-install -y"
+alias xr="sudo xbps-remove -o"
+alias xq="xbps-query -Rs"
